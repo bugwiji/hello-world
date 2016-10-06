@@ -1,2 +1,4 @@
 # hello-world
-This is my first comit as Busi
+This is my first commit as Busi
+Adding changes manually. 
+
